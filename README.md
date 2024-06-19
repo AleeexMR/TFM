@@ -1,4 +1,4 @@
-This github project includes all the scripts that have been used for the realization of my final degree project. In this READ.me there will be a brief description of all of them:
+This github project includes all the scripts that have been used for the realization of my final master thesis. In this READ.me there will be a brief description of all of them:
 
 -matrices_scenarios.py: It is a script in which all the matrices of the 7 small scenarios presented in the paper are contained.
 
@@ -13,3 +13,5 @@ Also the optimisation model of the previous script for use with the created matr
 -MC_crossdependent_scen.py: Code in which the montecarlo experiments are carried out to obtain the ARI of the different models in the cross dependency scenarios.
 
 -realdata.py: Application of our algorithm to real data from the Italian electricity market
+
+-plots_R.R: It contains the code necessary to obtain the graphics 2.1, 2.2, 2.3 and 3.1.
