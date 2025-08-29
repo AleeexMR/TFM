@@ -1,4 +1,4 @@
-This github project includes all the scripts that have been used for the realization of my final master thesis. In this READ.me there will be a brief description of all of them:
+This github project includes all the scripts that have been used for the realization of my final master thesis (master_thesis_alejandro_marcos.pdf). In this READ.me there will be a brief description of all of them:
 
 -matrices_scenarios.py: It is a script in which all the matrices of the 7 small scenarios presented in the paper are contained.
 
